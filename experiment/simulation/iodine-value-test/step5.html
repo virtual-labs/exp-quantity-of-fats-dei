@@ -98,7 +98,7 @@
       </div>
       <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
       	<div class="form-group">
-		    <label>Reading of  Blank Sample before titration</label>
+		    <label>Reading of  Blank Sample after titration</label>
 		    <input type="text" class="form-control" id="blka">
 		</div>
       </div>
@@ -142,7 +142,7 @@ function CalcSphv()////
 	var tstv=tsta-tstb;
 	var blkv=blka-blkb;
 	var voldff=blkv-tstv
-	var spov=(voldff*nmkh*56)/oilwt;
+	var spov=(voldff*nmkh*1.269)/oilwt;
 	$("#ans").text(spov);
 	$("#solans").removeClass("dsphdd");
 	//$("#solans").removeClass("dsphdd");
