@@ -66,10 +66,11 @@
 <body>
 
 <div class="row zero">
-    <div id="main"> 
-      <div id="myhead"><p id="masteps"> To start the process of calculation of acidic value of oil, click on oil bottle to put 1gm of oil in beaker.</p> <a id="nextstep" class="btn btn-success" href="step2.html"> Next Step</a>
-      </div>
-      <hr>
+		<div id="leftPanel">
+			<button onclick=location.reload(); class="btn btn-warning" style="width:225px;margin-bottom: 15px;">Reset</button>
+			<p id="masteps">To start the process of calculation of acidic value of oil, click on oil bottle to put 1gm of oil in beaker.</p> <a id="nextstep" class="btn btn-success" href="step2.html"> Next Step</a>
+		</div>
+		<div id="main"> 
       <img src="imgs1/ppt1.png" id="ppt1" style="position: absolute;height: 500px;margin-top: 5px;z-index: 5;margin-left: 15px;" >
       <img src="imgs1/ppt2.png" id="ppt2" class="dsphdd" style="position: absolute;height: 500px;margin-top: 5px;z-index: 5;margin-left: 15px;" >
       <img src="imgs1/ppt3.png" id="ppt3" class="dsphdd" style="position: absolute;height: 500px;margin-top: 5px;z-index: 5;margin-left: 15px;" >
@@ -215,7 +216,7 @@ function step4()
 		$('#test').removeClass('dsphdd');
 		$('#test').hide().delay(2010).fadeIn();
 		step=6;
-		$("#masteps").text("Click on burette nobe to start Titration process.");
+		$("#masteps").text("Click on burette knob to start Titration process.");
 	}	
 }
 

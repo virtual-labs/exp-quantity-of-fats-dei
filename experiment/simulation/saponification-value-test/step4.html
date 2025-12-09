@@ -65,11 +65,11 @@
 <body>
 
 <div class="row zero">
-    <div id="main"> 
-      <div id="myhead"><p id="masteps"> The final step is titration. Click on Phenolphthalein bottle to add a few drops into Test Sample.</p> <a id="nextstep" class="btn btn-success" href="step5.html"> Next Step</a>
-      </div>
-      <hr>
-	 
+		<div id="leftPanel">
+			<button onclick=location.reload(); class="btn btn-warning" style="width:225px;margin-bottom: 15px;">Reset</button>
+			<p id="masteps">The final step is titration. Click on Phenolphthalein bottle to add a few drops into Test Sample.</p> <a id="nextstep" class="btn btn-success" href="step5.html"> Next Step</a>
+		</div>
+		<div id="main"> 
       <img src="imgs4/ppt1.png" id="ppt1" style="position: absolute;height: 500px;margin-top: 5px;z-index: 5;margin-left: 25px;" >
       <img src="imgs4/ppt2.png" id="ppt2" class="dsphdd" style="position: absolute;height: 500px;margin-top: 5px;z-index: 5;margin-left: 25px;" >
       <img src="imgs4/ppt3.png" id="ppt3" class="dsphdd" style="position: absolute;height: 500px;margin-top: 5px;z-index: 5;margin-left: 25px;" >
@@ -197,7 +197,7 @@ function step2()
 		$("#finlbt").addClass("dspblk");
 		$("#tsts1").addClass("dsphdd");
 		step=5;
-		$("#masteps").text("Click on burette nobe to start Titration process.");
+		$("#masteps").text("Click on burette knob to start Titration process.");
 	}
 
 }
@@ -230,7 +230,7 @@ function step4()
 		$("#fnlred").addClass("dsphdd");
 		$("#finlbt").fadeIn(0);
 		step=7;
-		$("#masteps").text("Click on burette nobe to start Titration process again.");
+		$("#masteps").text("Click on burette knob to start Titration process again.");
 	}
 
 }
