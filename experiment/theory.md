@@ -1,7 +1,19 @@
 # Theory
 
+<<<<<<< Updated upstream
 ## Introduction to Lipids
 Lipids are a diverse group of naturally occurring organic compounds that are insoluble in water but soluble in non-polar solvents such as chloroform, ether, or benzene. They include fats, oils, waxes, phospholipids, and steroids, which play vital roles in biological systems — serving as structural components of cell membranes, energy reserves, and precursors for hormones and signaling molecules.
+=======
+<h2>Sudan IV Test</h2>
+
+<img src="picx/eq1.png" width="300" />
+
+<p>Common name: Sudan IV, Chemical class: Azo dye, Molecular formula: C<sub>24</sub>H<sub>20</sub>N<sub>4</sub>O</p>
+
+<p>The dye has Azo Linkage (-N=N-), the core structural feature of Sudan IV, connects two aromatic ring systems, and they are responsible for strong coloration (deep red) and light absorption in the visible range.</p>
+
+<p>Sudan IV test is used to detect the presence of lipid in a solution. This test is based upon the principle of binding and solubility of lipid in non-polar compounds. As Sudan IV is a non-polar stain, the lipid will bind with it and retain the stain’s colour by giving a red-orange colour. Sudan IV does not stain or bind to the polar compounds.</p>
+>>>>>>> Stashed changes
 
 Chemically, lipids are composed mainly of carbon, hydrogen, and oxygen, and often contain other elements such as phosphorus or nitrogen. Most natural fats and oils are triesters of glycerol and fatty acids, known as triglycerides. The nature and number of fatty acid chains, especially the presence or absence of double bonds, determine whether a lipid is saturated or unsaturated, and influence its physical properties and nutritional quality.
 The biochemical tests described in this experiment help to identify and characterize lipids based on their physical and chemical properties. These include qualitative tests (such as Acrolein and Sudan IV tests) for detection, and quantitative tests (such as Saponification, Acid, and Iodine values) that assess the composition, purity, and quality of lipid samples. Together, these experiments lay the foundation for understanding lipid chemistry and its applications in food, health, and industrial contexts.
