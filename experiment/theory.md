@@ -1,32 +1,26 @@
 # Theory
-
-<<<<<<< Updated upstream
 ## Introduction to Lipids
 Lipids are a diverse group of naturally occurring organic compounds that are insoluble in water but soluble in non-polar solvents such as chloroform, ether, or benzene. They include fats, oils, waxes, phospholipids, and steroids, which play vital roles in biological systems — serving as structural components of cell membranes, energy reserves, and precursors for hormones and signaling molecules.
-=======
-<h2>Sudan IV Test</h2>
-
-<img src="picx/eq1.png" width="300" />
-
-<p>Common name: Sudan IV, Chemical class: Azo dye, Molecular formula: C<sub>24</sub>H<sub>20</sub>N<sub>4</sub>O</p>
-
-<p>The dye has Azo Linkage (-N=N-), the core structural feature of Sudan IV, connects two aromatic ring systems, and they are responsible for strong coloration (deep red) and light absorption in the visible range.</p>
-
-<p>Sudan IV test is used to detect the presence of lipid in a solution. This test is based upon the principle of binding and solubility of lipid in non-polar compounds. As Sudan IV is a non-polar stain, the lipid will bind with it and retain the stain’s colour by giving a red-orange colour. Sudan IV does not stain or bind to the polar compounds.</p>
->>>>>>> Stashed changes
 
 Chemically, lipids are composed mainly of carbon, hydrogen, and oxygen, and often contain other elements such as phosphorus or nitrogen. Most natural fats and oils are triesters of glycerol and fatty acids, known as triglycerides. The nature and number of fatty acid chains, especially the presence or absence of double bonds, determine whether a lipid is saturated or unsaturated, and influence its physical properties and nutritional quality.
+
 The biochemical tests described in this experiment help to identify and characterize lipids based on their physical and chemical properties. These include qualitative tests (such as Acrolein and Sudan IV tests) for detection, and quantitative tests (such as Saponification, Acid, and Iodine values) that assess the composition, purity, and quality of lipid samples. Together, these experiments lay the foundation for understanding lipid chemistry and its applications in food, health, and industrial contexts.
 
 ## Acrolein test:
 
-The Acrolein test is used to detect the presence of glycerol, which confirms the presence of fats. This test is based on the dehydration reaction of glycerol in the presence of potassium hydrogen sulphate (KHSO₄). Glycerol loses water molecules and forms acrolein, which has a characteristic pungent and irritating odor.
+The Acrolein test is used to detect the presence of glycerol, which confirms the presence of fats. This test is based on the dehydration reaction of glycerol in the presence of potassium hydrogen sulphate (KHSO<sub>4</sub>). Glycerol loses water molecules and forms acrolein, which has a characteristic pungent and irritating odor.
 
 C<sub>3</sub>H<sub>5</sub>(OH)<sub>3</sub> &rarr; CH<sub>2</sub>= CH-CHO + 2H<sub>2</sub>O
 
 Inference: The appearance of a pungent smell confirms the presence of glycerol and hence lipids.
 
 ## Sudan IV Test
+
+<img src="picx/eq1.png" width="300" />
+
+Common name: Sudan IV, Chemical class: Azo dye, Molecular formula: C<sub>24</sub>H<sub>20</sub>N<sub>4</sub>O
+
+The dye has Azo Linkage (-N=N-), the core structural feature of Sudan IV, connects two aromatic ring systems, and they are responsible for strong coloration (deep red) and light absorption in the visible range
 
 The Sudan IV test is used to detect the presence of lipids in a sample. It is based on the principle that Sudan IV is a non-polar dye and dissolves preferentially in non-polar substances such as fats and oils. When added to a lipid-containing sample, it stains the lipid red-orange, while polar substances remain unstained.
 
