@@ -1,0 +1,2 @@
+### Aim of the experiment
+The aim of this experiment is the qualitative analysis of lipids (oils and fats) by simple laboratory methods that help in the determination of the presence of lipids, their confirmatory test of the type of lipids. The detailed analysis includes the determination of Saponification value that can check the adulteration, acid value can determine the rancidity and iodine value will determine the extent of unsaturation.
